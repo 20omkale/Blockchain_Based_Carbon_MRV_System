@@ -271,7 +271,7 @@ function Form() {
               <select
                 id="level"
                 className="bg-white   focus:outline-none
-        focus:ring-2 focus:ring-blue-500 focus:border-transparent rounded-lg p-2 w-full"
+        focus:ring-2 focus:ring-blue-500 focus:border-transparent rounded-lg p-2 w-full text-black"
               >
                 <option value="Low">Low</option>
                 <option value="Medium">Medium</option>
@@ -293,7 +293,7 @@ function Form() {
               <select
                 id="trained"
                 className="bg-white  focus:outline-none
-        focus:ring-2 focus:ring-blue-500 focus:border-transparent  rounded-lg p-2 w-full"
+        focus:ring-2 focus:ring-blue-500 focus:border-transparent  rounded-lg p-2 w-full text-black"
               >
                 <option value="True">true</option>
                 <option value="False">false</option>

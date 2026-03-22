@@ -39,7 +39,8 @@
     "app/(auth)/wallet",
     "app/(auth)/signin/SignInForm.tsx",
     ".next\\dev/types/**/*.ts",
-    ".next\\dev/types/**/*.ts"
+    ".next\\dev/types/**/*.ts",
+    ".next/dev/types/**/*.ts"
   ],
   "exclude": [
     "node_modules"

@@ -64,11 +64,11 @@ const router = useRouter()
        <Button size="md" variant="primary" text={"New Submission"} onClick={()=>router.push("/user/form")}/>
       </div>
        {/* smplify later */}
-      <div id="cards" className="flex flex-wrap justify-evenly py-3 gap-2">
+      <div id="cards" className="flex flex-wrap  py-3 gap-4">
   {cardData.map((card, idx) => (
     <Cards
       key={idx}
-      className="h-60 w-72 bg-white text-zinc-800 "
+      className="h-60 w-64 bg-white text-zinc-800 "
       title={card.title}
       subtext={card.subtext}
       body={card.body}

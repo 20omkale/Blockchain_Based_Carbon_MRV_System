@@ -1,3 +1,81 @@
+# 🌱 Carbon MRV System
+
+A blockchain-based system for **Monitoring, Reporting, and Verification (MRV)** of carbon data with transparent token generation.
+
+---
+
+## 🚀 Problem
+
+Traditional carbon verification systems are:
+
+* Centralized
+* Slow and manual
+* Prone to manipulation
+
+---
+
+## 💡 Solution
+
+This system provides:
+
+* Decentralized verification
+* Transparent approval workflow
+* Automated carbon token generation
+
+---
+
+## ⚙️ Tech Stack
+
+* Frontend: Next.js
+* Backend: Node.js, Express.js
+* Database: PostgreSQL
+* Blockchain: (Solana / Ethereum)
+* Tools: Prisma, WebSockets
+
+---
+
+## 🔥 Core Features
+
+* 📄 Carbon data submission
+* ✅ Admin verification system
+* 🪙 Token generation for verified data
+* 🔐 Wallet integration (planned)
+* 📊 Dashboard for tracking
+
+---
+
+## 🔄 Workflow
+
+1. User submits carbon data
+2. Admin verifies submission
+3. Verified data triggers token generation
+4. Tokens are assigned to user wallet
+
+---
+
+## 📸 Demo
+
+*(Add screenshots here -  currently working on it)*
+
+---
+
+## 📌 Status
+
+🚧 Currently under active development
+
+---
+
+## 🎯 Future Scope
+
+* IoT + drone-based validation
+* Real-time satellite data integration
+* Carbon credit marketplace
+
+---
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

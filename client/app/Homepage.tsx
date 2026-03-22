@@ -92,6 +92,7 @@ const Homepage = () => {
                subtext={subtext}
                body={body}
                icon={icon}
+               className="text-black"
              />
            ))}
          </div>

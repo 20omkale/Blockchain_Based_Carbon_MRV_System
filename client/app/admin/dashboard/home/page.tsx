@@ -83,11 +83,11 @@ const Page = () => {
         />
       </div>
 
-      <div id="cards" className="flex flex-wrap justify-evenly py-3 gap-2">
+      <div id="cards" className="flex flex-wrap  py-3 gap-4">
         {cardData.map((card, idx) => (
           <Cards
             key={idx}
-            className="h-60 w-72 text-white/80 bg-neutral-800"
+            className="h-60 w-64 text-white/80 bg-neutral-800"
             title={card.title}
             subtext={card.subtext}
             body={card.body}
